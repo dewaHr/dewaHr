@@ -1,3 +1,7 @@
+import time
+jam=time.localtime(time.time())
+localtime=time.asctime(jam)
+print("Waktu Saat Ini:",time.asctime(jam))
 import datetime
 tanggal=datetime.date.today()
 tahunini=tanggal.year
