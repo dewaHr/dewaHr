@@ -1,4 +1,4 @@
-- 🧢🍊 Hi, I’m @dewaHr
+- 🧢🍊 Hi, I’m @dewaahr
 
 <!---
 dewaHr/dewaHr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
